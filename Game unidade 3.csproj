@@ -78,6 +78,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\scripts\Bala.cs" />
     <Compile Include="Assets\scripts\cameraSeguir.cs" />
     <Compile Include="Assets\scripts\player.cs" />
   </ItemGroup>
